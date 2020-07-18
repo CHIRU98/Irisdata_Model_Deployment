@@ -1,1 +1,1 @@
-web:gunicorn app:iris web app
+web gunicorn app:iris web app
